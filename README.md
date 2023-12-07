@@ -36,7 +36,7 @@
 
 * Inputan Ubah Data (u)
 
-![img](ss.png)
+![img](ss4.png)
 
 ![img](Praktikum8/ss4.png)
 
