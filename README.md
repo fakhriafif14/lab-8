@@ -1,5 +1,4 @@
 # lab-8
-# Praktikum 8
 # OOP (Objek Oriented Programming)
 
 ## Profil
@@ -20,26 +19,24 @@
 
 
 # $${\color{lightblue}PYTHON}$$
-![img](Praktikum8/code.png)
-
-
-## * *Hasil Tampilan Program*
-
-* Berikut adalah ketika program dijalankan
 
 ![img](code1.png)
 
-  
+- ##  Hasil Tampilan Program
+- Berikut adalah ketika program dijalankan
+
+![img](ss1.png)
+
 * Inputan Tambah Data (t)
 
-![img](Praktikum8/ss1.png)
+![img](ss2.png)
 
-![img](Praktikum8/ss2.png)
+![img](ss3.png)
 
 
 * Inputan Ubah Data (u)
 
-![img](Praktikum8/ss3.png)
+![img](ss.png)
 
 ![img](Praktikum8/ss4.png)
 
