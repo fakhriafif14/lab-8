@@ -12,11 +12,11 @@
 
 
 ## Program Diagram Class
-![img](Praktikum8/diagramclass.png)
+![img](diagramclass.png)
 
 
 ## Sistem Flowchart
-![img](Praktikum8/flowchart.png)
+![img](fl.png)
 
 
 # $${\color{lightblue}PYTHON}$$
@@ -27,7 +27,7 @@
 
 * Berikut adalah ketika program dijalankan
 
-![img](Praktikum8/ss7.png)
+![img](code1.png)
 
   
 * Inputan Tambah Data (t)
