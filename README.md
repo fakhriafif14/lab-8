@@ -38,14 +38,14 @@
 
 ![img](ss4.png)
 
-![img](Praktikum8/ss4.png)
+![img](ss5.png)
 
 
 * Inputan Hapus Data (h)
 
-![img](Praktikum8/ss5.png)
+![img](ss6.png)
 
-![img](Praktikum8/ss6.png)
+![img](ss7.png)
 
 
 ### Penjelasannya : 
